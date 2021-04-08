@@ -1,2 +1,2 @@
-# about-me
-A bit about my experience, and where I plan to go from here!
+# Introduction
+If you've gotten to this page, you're either here because I applied to work for you, or you stumbled upon it (you won't regret it!). Regardless, welcome. Here I will unfold, like a story/autobiography work of art, information about the languages I've learned, some of the projects I've made (most are university assignments, available in my repository), and perhaps most importantly, what I'm working on next! This will be regularly updated, and I'll reduce the technical jargon to make for easy (easier) reading. 
