@@ -46,7 +46,7 @@ From other sites/resources
 I would just LOVE to get some real-world experience. I've spent more time recently on YouTube, raptly listening to and absorbing the wisdom of those in the IT industry already (shoutout to TiffInTech and Forrest Knight, a couple of my favourites!). I truly believe that, especially in an industry as broad and challenging in IT, it's imperative to have several people to admire and take a leaf out of their book (a line out of their code?), as it were. There's something to be learnt from anyone, anywhere. I've looked into other career fields outside of IT but for me IT just really had that special place in my career planning, and I just really want to get my hands dirty.
 
 Technology-wise, there is always some new up-and-coming language or, well, technology to be learned, that employers often request from candidates looking for their next (or first!) world to dive into. The ones I believe I will like, and currently see the most promise in, personally) are:
-1) Rust
+1) Ruby
 2) Scala
 3) PHP
 4) Node.js (I will be working on this after React)
